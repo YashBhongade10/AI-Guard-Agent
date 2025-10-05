@@ -1,4 +1,4 @@
-# 🛡️ AI Guard Agent – EE782 Programming Assignment
+# 🛡️ AI Guard Agent 
 **An AI-Powered Room Monitoring System using Voice Control, Face Recognition, and Conversational AI**
 
 > *Developed for the course EE782: Advanced Topics in Machine Learning (IIT Bombay)*
@@ -189,12 +189,6 @@ AI-Guard-Agent/
 
 ## 🧩 Authors
 
-**Yash Bhonnade**  
-Department of Electrical Engineering  
+**Yash Bhongade**  
 Indian Institute of Technology, Bombay
 
----
-
-## 🛡️ License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
