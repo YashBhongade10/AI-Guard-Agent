@@ -16,7 +16,7 @@ It recognizes **trusted individuals** and issues **AI-generated spoken warnings*
 
 | Feature | Description |
 |----------|-------------|
-| 🎙️ **Voice-Controlled Activation** | The agent activates or deactivates monitoring via spoken commands: `"guard my room"` and `"stop guarding"`. |
+| 🎙️ **Voice-Controlled Activation** | The agent activates or deactivates monitoring via spoken commands: `"activate protection"` and `"deactivate"`. |
 | 👁️ **Real-Time Face Recognition** | Uses OpenCV + `face_recognition` to identify trusted individuals and detect unknown visitors. |
 | 🧠 **Dynamic Conversational AI** | Integrates **Google Gemini LLM** to generate context-aware spoken dialogues for unrecognized persons. |
 | ⚠️ **Escalating Response System** | The AI becomes progressively firmer if the intruder remains detected. |
